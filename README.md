@@ -1,7 +1,7 @@
 # Hi, I'm Satyansh Rawat 👋
 
-**AI/ML engineer in the making** building agentic AI and machine learning apps.
-B.Tech Computer Science student at Lloyd Institute of Engineering & Technology (2027), based in Greater Noida, India 🇮🇳
+**AI/ML engineer in the making** ,  building agentic AI and machine learning apps.
+B.Tech Computer Science student at Lloyd Institute of Engineering & Technology (2027), based in Greater Noida, India
 
 I like building things end to end: cleaning the data, training and comparing models, then shipping an app people can use.
 
